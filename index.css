@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro);
+
+#content{
+    margin:40px auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    max-width:750px;
+    line-height:1.6;
+    font-size:18px;
+    color:#444;
+    font-family: 'Source Sans Pro', 'Ubuntu', 'Lucida Console', monospace, Verdana, sans-serif;
+    min-height: 84.05vh;
+}
+h1,h2,h3,h4{
+    line-height:1.2;
+    font-family: 'Source Code Pro', 'Ubuntu', 'Lucida Console', monospace, Verdana, sans-serif;
+}
+
+#header, #footer {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin: 0px;
+    width: 100%;
+    color:whitesmoke;
+    font-weight: 600;
+    text-align: center;
+    background-color: #9b59b6;
+    text-rendering: geometricPrecision;
+    font-family: 'Source Code Pro', 'Ubuntu', 'Lucida Console', monospace, Verdana, sans-serif;
+}
+body{
+    margin: 0px;
+	background-color: whitesmoke;
+}
